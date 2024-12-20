@@ -465,4 +465,8 @@ h6 {
   .right-column {
     justify-content: center;
   }
+
+  .post:hover {
+    transform: none;
+  }
 }
