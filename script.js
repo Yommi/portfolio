@@ -46,6 +46,9 @@ fetch('projects.json')
     data.projects.forEach(project => {
       const post = document.createElement('div');
       post.classList.add('post');
+      post.addEventListener('click', () => {
+        window.open(project.link, '_blank');  // Open project link in new tab
+      });
 
       // Create post image
       const img = document.createElement('img');
@@ -80,13 +83,6 @@ fetch('projects.json')
       });
 
       postPreview.appendChild(technologies);
-
-      // Link to project
-      const link = document.createElement('a');
-      link.target = '_blank';
-      link.href = project.link || '#';  // Fallback link if not provided
-      link.textContent = 'View project';
-      postPreview.appendChild(link);
 
       post.appendChild(postPreview);
 
