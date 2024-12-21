@@ -21,6 +21,26 @@
         ]
       },
       {
+        "title": "Animation Project",
+        "image": "images/animation project.png",
+        "intro": "The project is a simple animation project that uses HTML, CSS, and js. The purpose of the project is to practice my animation with css and js.",
+        "link": "https://space-animation-project.netlify.app/",
+        "technologies": [
+          {
+            "name": "HTML",
+            "spanClass": "html"
+          },
+          {
+            "name": "CSS",
+            "spanClass": "css"
+          },
+          {
+            "name": "JavaScript",
+            "spanClass": "javascript"
+          }
+        ]
+      },
+      {
         "title": "Github Finder",
         "image": "images/githubFinder1.png",
         "intro": "The application helps you search github users and some of their repositories.",
