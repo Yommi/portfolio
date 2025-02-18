@@ -21,6 +21,26 @@
         ]
       },
       {
+        "title": "Task tracker",
+        "image": "images/Task-Tracker.png",
+        "intro": "The project is a simple animation project that uses HTML, CSS, and js. The purpose of the project is to practice my animation with css and js.",
+        "link": "https://private-repo-frontend.vercel.app/",
+        "technologies": [
+          {
+            "name": "React",
+            "spanClass": "react"
+          },
+          {
+            "name": "CSS",
+            "spanClass": "css"
+          },
+          {
+            "name": "Node.js",
+            "spanClass": "nodejs"
+          }
+        ]
+      },
+      {
         "title": "Animation Project",
         "image": "images/animation project.png",
         "intro": "The project is a simple animation project that uses HTML, CSS, and js. The purpose of the project is to practice my animation with css and js.",
