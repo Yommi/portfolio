@@ -24,7 +24,7 @@
       "title": "Task tracker",
       "image": "images/Task-Tracker.png",
       "intro": "A basic app for users to add, view, and manage tasks. Each task includes a title, description, and a status (e.g., to-do, in-progress, completed). Users can easily mark tasks as done or delete them. The app is designed to provide a straightforward way to keep track of personal tasks without unnecessary complexity.",
-      "link": "https://private-repo-frontend.vercel.app/",
+      "link": "https://task-tracker-frontend-t4cg.onrender.com/",
       "technologies": [
         {
           "name": "React",
