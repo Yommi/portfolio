@@ -44,7 +44,7 @@
       "title": "Face Recognition App",
       "image": "images/Face-Reg.png",
       "intro": "The Face Recognition app allows users to upload a photo or take a picture directly within the app to analyze facial features. It then detects the user's age and gender based on the facial data. The app provides quick, accurate results, making it easy for users to learn more about how facial recognition technology works. The interface is simple and intuitive, allowing for seamless image uploads and instant recognition.",
-      "link": "https://webcam-face-reg-66222290c6aa.herokuapp.com/",
+      "link": "https://webcam-facial-reg.onrender.com/",
       "technologies": [
         {
           "name": "React",
