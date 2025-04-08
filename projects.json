@@ -21,9 +21,49 @@
       ]
     },
     {
+      "title": "AI Text Summarizer",
+      "image": "images/AI-Text-Summarizer.png",
+      "intro": "AI Text Summarizer is a web app that uses advanced natural language processing to condense long articles, documents, or web content into clear, concise summaries.",
+      "link": "https://ai-text-summary-fe.onrender.com",
+      "technologies": [
+        {
+          "name": "Express.js",
+          "spanClass": "expressjs"
+        },
+        {
+          "name": "React",
+          "spanClass": "react"
+        },
+        {
+          "name": "AI",
+          "spanClass": "angular"
+        },
+        {
+          "name": "Node.js",
+          "spanClass": "nodejs"
+        }
+      ]
+    },
+    {
+      "title": "Face Recognition App",
+      "image": "images/Face-Reg.png",
+      "intro": "The Face Recognition app allows users to upload a photo or take a picture directly within the app to analyze facial features. It then detects the user's age and gender based on the facial data.",
+      "link": "https://webcam-facial-reg.onrender.com/",
+      "technologies": [
+        {
+          "name": "React",
+          "spanClass": "react"
+        },
+        {
+          "name": "CSS",
+          "spanClass": "css"
+        }
+      ]
+    },
+    {
       "title": "Task tracker",
       "image": "images/Task-Tracker.png",
-      "intro": "A basic app for users to add, view, and manage tasks. Each task includes a title, description, and a status (e.g., to-do, in-progress, completed). Users can easily mark tasks as done or delete them. The app is designed to provide a straightforward way to keep track of personal tasks without unnecessary complexity.",
+      "intro": "A basic app for users to add, view, and manage tasks. Each task includes a title, description, and a status (e.g., to-do, in-progress, completed).",
       "link": "https://task-tracker-frontend-t4cg.onrender.com/",
       "technologies": [
         {
@@ -37,22 +77,6 @@
         {
           "name": "Node.js",
           "spanClass": "nodejs"
-        }
-      ]
-    },
-    {
-      "title": "Face Recognition App",
-      "image": "images/Face-Reg.png",
-      "intro": "The Face Recognition app allows users to upload a photo or take a picture directly within the app to analyze facial features. It then detects the user's age and gender based on the facial data. The app provides quick, accurate results, making it easy for users to learn more about how facial recognition technology works. The interface is simple and intuitive, allowing for seamless image uploads and instant recognition.",
-      "link": "https://webcam-facial-reg.onrender.com/",
-      "technologies": [
-        {
-          "name": "React",
-          "spanClass": "react"
-        },
-        {
-          "name": "CSS",
-          "spanClass": "css"
         }
       ]
     },
