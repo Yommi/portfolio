@@ -46,9 +46,9 @@
       ]
     },
     {
-      "title": "Face Recognition App",
+      "title": "AI Face Recognition App",
       "image": "images/Face-Reg.png",
-      "intro": "The Face Recognition app allows users to upload a photo or take a picture directly within the app to analyze facial features. It then detects the user's age and gender based on the facial data.",
+      "intro": "The AI Face Recognition app allows users to upload a photo or take a picture directly within the app to analyze facial features. It then detects the user's age and gender based on the facial data.",
       "link": "https://webcam-facial-reg.onrender.com/",
       "technologies": [
         {
@@ -58,6 +58,10 @@
         {
           "name": "CSS",
           "spanClass": "css"
+        },
+        {
+          "name": "AI",
+          "spanClass": "googleAppScript"
         }
       ]
     },
