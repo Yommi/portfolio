@@ -10,13 +10,14 @@
           "name": "React",
           "spanClass": "react"
         },
+
         {
-          "name": "Google App Script",
-          "spanClass": "googleAppScript"
+          "name": "Express.js",
+          "spanClass": "expressjs"
         },
         {
-          "name": "Python",
-          "spanClass": "python"
+          "name": "Node.js",
+          "spanClass": "nodejs"
         }
       ]
     },
